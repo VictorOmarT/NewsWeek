@@ -6,12 +6,35 @@
 .btn {
   background-color: #ffe400;
   color: black;
-  border-radius: 20px;
   display: flex;
   align-items: center;
-  font: bold 11px/24px "Roboto Condensed", sans-serif;
+  font: bold 9px/18px "Roboto Condensed", sans-serif;
+  text-transform: uppercase;
+  border-radius: 24px;
+  margin-top: 4px;
 }
 
 .nav-link {
   fill: aliceblue;
 }
+
+
+.fa-1x {
+  font-size: 1.5rem;
+  }
+  .navbar-toggler.toggler-example {
+  cursor: pointer;
+  }
+  .dark-blue-text {
+  color: #0A38F5;
+  }
+  .dark-pink-text {
+  color: #AC003A;
+  }
+  .dark-amber-text {
+  color: #ff6f00;
+  }
+  .dark-teal-text {
+  color: #004d40;
+  }
+  
