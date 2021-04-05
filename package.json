@@ -1,0 +1,27 @@
+{
+  "name": "newsweek",
+  "version": "1.0.0",
+  "description": "This project uses mobile-first responsive design approach to clone News Week",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "hint": "^6.0.7",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.17.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorOmarT/NewsWeek"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotimiazeez/NewsWeek/issues"
+  },
+  "homepage": "https://github.com/rotimiazeez/NewsWeek#readme"
+}
