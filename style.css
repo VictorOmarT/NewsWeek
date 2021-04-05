@@ -1,0 +1,17 @@
+.nav {
+  background-color: red;
+  margin-top: 4em;
+}
+
+.btn {
+  background-color: #ffe400;
+  color: black;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  font: bold 11px/24px "Roboto Condensed", sans-serif;
+}
+
+.nav-link {
+  fill: aliceblue;
+}
